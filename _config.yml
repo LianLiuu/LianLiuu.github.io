@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  LianLiuu
 
 # Build settings
-remote_theme: THEME-NAME
+remote_theme: moonwalk
 plugins:
   - jekyll-feed
 
